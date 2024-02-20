@@ -15,3 +15,6 @@ This is a comprehensive e-commerce website built using [Technologies/Frameworks 
 ## Installation
 
 1. Clone the repository:
+2. Setup eclipse
+3. install necessary dependecies
+4. run the project
