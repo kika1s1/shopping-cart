@@ -18,3 +18,12 @@ This is a comprehensive e-commerce website built using [Technologies/Frameworks 
 2. Setup eclipse
 3. install necessary dependecies
 4. run the project
+
+## Group member
+
+- Tamirat Kebede
+- Surafel Takele
+- Yohannes Welel
+- Gebriel Admasu
+- Yosef Deso
+- Mitiku Tadesse
